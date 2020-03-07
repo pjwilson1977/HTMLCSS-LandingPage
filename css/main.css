@@ -37,15 +37,18 @@ section {
 
 .btn-default {
     background-color: #faa541;
+    color: #ffffff;
 }
 .btn-primary {
     background-color: #364147;
+    color: #ffffff;
 }
 .form-control {
     display: block;
     padding: 6px 12px;
     border: 1px solid #8598a2;
     line-height: 1.4em;
+    color: #8598a2;
 }
 
 .text-light {
