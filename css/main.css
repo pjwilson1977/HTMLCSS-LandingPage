@@ -238,7 +238,7 @@ footer:after{
     margin-bottom: 15px;
 }
 
-.lists ul li a {
+footer a {
     color: #ffffff;
     text-transform: uppercase;
     font-size: 12px;
