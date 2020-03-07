@@ -43,6 +43,14 @@ section {
     background-color: #364147;
     color: #ffffff;
 }
+.search-button {
+    background-color: #a0a0a0;
+    color: #ffffff;
+    border: 0;
+    padding: 0;
+    width: 100px;
+    height: 30px;
+}
 .form-control {
     display: block;
     padding: 6px 12px;
@@ -50,7 +58,6 @@ section {
     color: #8598a2;
     line-height: 1.4;
 }
-
 .text-light {
     font-size: 30px;
     color: #a0a0a0;
@@ -63,3 +70,15 @@ section {
     font-size: 16px;
     color: #364147;
 }
+
+.header-nav { border-bottom: 1px solid #a0a0a0; }
+.brand { margin-left: -15px; width: 175px; height: 85px; margin-right: 60px;}
+.logo {max-width: 100%; height: auto; }
+.search-box { width: 330px; height: 30px; padding: 6px 12px; border: 1px solid #a0a0a0; }
+.nav-list { width: 575px; padding-left: 0; margin-top: 10px;}
+.nav-list li a {font-size: 16px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.2px;}
+.profile {left-margin:auto;}
+.profile-pic { width: 60px; height: 60px; border-radius: 100px;}
+.profile-pic img {max-width: 100%;}
+.account {padding: 15px; color: #364147; font-size: 18px;}
+
