@@ -245,6 +245,9 @@ footer a {
     padding: 0 0 4px;
     text-decoration: none;
 }
+footer a:hover {
+    text-decoration: underline;
+}
 
 .social ul li {
     display: inline-block;
