@@ -229,7 +229,7 @@ footer:after{
 }
 .lists {
     flex: 0 0 75%;
-    margin: 20px 15px;
+    padding: 40px 15px;
 }
 .link-headers {
     text-transform: uppercase;
