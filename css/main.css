@@ -152,12 +152,17 @@ section {
     content: "";
     position: absolute;
     border: 1px solid #ffffff;
-    margin: 30px 50px;
+    top:30px;
+    bottom:30px;
+    left:50px;
+    right:50px;
     z-index: 1;
 }
 .full-banner-image {
     flex: 0 0 58.333333%;
     background-image: url("../img/vista.jpg");
+    background-size: cover;
+    background-position: top center;
     height: 400px;
 }
 .full-banner-sidebar {
@@ -199,6 +204,7 @@ section {
 .full-banner-sidebar .btn.btn-default {
     margin-top: 50px;
     text-transform: uppercase;
+    letter-spacing: 1px;
     z-index: 1;
 }
 
