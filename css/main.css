@@ -72,12 +72,12 @@ section {
 }
 
 .header-nav { border-bottom: 1px solid #a0a0a0; }
-.brand { width: 175px; height: 85px; margin-left: -15px; margin-right: 60px;}
+.brand { width: 170px; height: 85px; margin-left: -15px; margin-right: 60px;}
 .logo {max-width: 100%; height: auto; }
 .search-box { width: 330px; height: 30px; padding: 6px 12px; border: 1px solid #a0a0a0; }
 .nav-list { width: 575px; padding-left: 0; margin-top: 10px;}
 .nav-list li a {font-size: 16px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.2px;}
-.profile {left-margin:auto;}
+.profile {margin-left:auto;}
 .profile-pic { width: 60px; height: 60px; border-radius: 100px;}
 .profile-pic img {max-width: 100%; border-radius: 100px;}
 .account {padding: 15px; color: #364147; font-size: 18px; text-align: right;}
